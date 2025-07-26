@@ -18,4 +18,5 @@ To tokenize academic achievements in a verifiable and transparent way. Each NFT 
 
 ## 📜 Contract Address
 `SP1234567890ABCDEFGH.student-progress-nft`
-> _(Replace with actual deployed address after deployment)_
+> _(<img width="1891" height="859" alt="image" src="https://github.com/user-attachments/assets/9c1a91fc-b78b-4f2b-9a93-29deee5c753f" />
+)_
